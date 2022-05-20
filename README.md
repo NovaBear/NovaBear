@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Brent aka @NovaBear
+- 👋 Hi, I’m Brent 
 - 👀 I’m interested in everyting that has a network
 - 🌱 I’m currently learning system and network engineer
 - 📫 How to reach me "brentdelvin@hotmail.com"
