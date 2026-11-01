@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brent 
 - 👀 I’m interested in everyting that has a network
-- 🌱 I’m currently learning system and network engineer
+- 🌱 I’m currently working as a payment it specialist
 - 📫 How to reach me "brentdelvin@hotmail.com"
 
 <!---
